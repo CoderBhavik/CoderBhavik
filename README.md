@@ -187,8 +187,8 @@ bhavik@aria:~$ status --check
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/GitHub-CoderBhavik-00f0ff?style=for-the-badge&logo=github&logoColor=white&labelColor=050810" />
-<img src="https://img.shields.io/badge/Email-ADD%20LINK-00ffa3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050810" />
+<a href="https://github.com/CoderBhavik"><img src="https://img.shields.io/badge/GitHub-CoderBhavik-00f0ff?style=for-the-badge&logo=github&logoColor=white&labelColor=050810" /></a>
+<a href="mailto:suthabhavik54@gmail.com"><img src="https://img.shields.io/badge/Email-suthabhavik54%40gmail.com-00ffa3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050810" /></a>
 <img src="https://img.shields.io/badge/LinkedIn-ADD%20LINK-00f0ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050810" />
 
 </div>
