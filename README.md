@@ -189,7 +189,7 @@ bhavik@aria:~$ status --check
 
 <a href="https://github.com/CoderBhavik"><img src="https://img.shields.io/badge/GitHub-CoderBhavik-00f0ff?style=for-the-badge&logo=github&logoColor=white&labelColor=050810" /></a>
 <a href="mailto:suthabhavik54@gmail.com"><img src="https://img.shields.io/badge/Email-suthabhavik54%40gmail.com-00ffa3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050810" /></a>
-<img src="https://img.shields.io/badge/LinkedIn-ADD%20LINK-00f0ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050810" />
+<a href="www.linkedin.com/in/bhavik-suthar-584356380"><img src="https://img.shields.io/badge/LinkedIn-ADD%20LINK-00f0ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050810" /></a>
 
 </div>
 
