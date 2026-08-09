@@ -1,0 +1,50 @@
+<svg width="360" height="360" viewBox="0 0 360 360" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="coreGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00ffe1" stop-opacity="0.9"/>
+      <stop offset="60%" stop-color="#0091ff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#0091ff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f0ff"/>
+      <stop offset="100%" stop-color="#00ffa3"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="360" height="360" fill="#050810"/>
+  <circle cx="180" cy="180" r="160" fill="url(#coreGlow)"/>
+
+  <!-- outer rotating-look ring segments -->
+  <circle cx="180" cy="180" r="150" fill="none" stroke="#123240" stroke-width="1"/>
+  <circle cx="180" cy="180" r="130" fill="none" stroke="url(#ringGrad)" stroke-width="2" stroke-dasharray="18 10" opacity="0.8"/>
+  <circle cx="180" cy="180" r="112" fill="none" stroke="#1c4a5c" stroke-width="1" stroke-dasharray="2 6"/>
+
+  <!-- inner core -->
+  <circle cx="180" cy="180" r="60" fill="#050f16" stroke="url(#ringGrad)" stroke-width="2"/>
+  <circle cx="180" cy="180" r="34" fill="#00161c" stroke="#00f0ff" stroke-width="1.5"/>
+  <circle cx="180" cy="180" r="10" fill="#00ffe1"/>
+
+  <!-- radiating nodes -->
+  <g stroke="#00f0ff" stroke-width="1.5" opacity="0.75">
+    <line x1="180" y1="120" x2="180" y2="70"/>
+    <line x1="180" y1="240" x2="180" y2="290"/>
+    <line x1="120" y1="180" x2="70" y2="180"/>
+    <line x1="240" y1="180" x2="290" y2="180"/>
+  </g>
+  <g fill="#00ffa3">
+    <circle cx="180" cy="65" r="4"/>
+    <circle cx="180" cy="295" r="4"/>
+    <circle cx="65" cy="180" r="4"/>
+    <circle cx="295" cy="180" r="4"/>
+  </g>
+
+  <!-- diagonal accent ticks -->
+  <g stroke="#1c4a5c" stroke-width="1">
+    <line x1="80" y1="80" x2="100" y2="100"/>
+    <line x1="280" y1="80" x2="260" y2="100"/>
+    <line x1="80" y1="280" x2="100" y2="260"/>
+    <line x1="280" y1="280" x2="260" y2="260"/>
+  </g>
+
+  <text x="180" y="345" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" letter-spacing="4" fill="#4f6b7a">AI CORE // ARIA</text>
+</svg>
