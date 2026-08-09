@@ -97,7 +97,7 @@ Personal AI assistant focused on automation, system interaction, voice interacti
 |:--|:--|
 | **STATUS** | 🟡 IN DEVELOPMENT |
 | **STACK** | Python &#183; LangChain &#183; LLMs |
-| **GITHUB** | `https://github.com/CoderBhavik/AI-RESEARCHER-AGENT` |
+| **GITHUB** | https://github.com/CoderBhavik/AI-RESEARCHER-AGENT |
 
 **DESCRIPTION**
 Multi-agent research system that performs web search, web scraping, report generation, and a critic/reviewer pipeline.
