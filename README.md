@@ -83,7 +83,7 @@ clearance:     OPERATOR-LEVEL ACCESS
 |:--|:--|
 | **STATUS** | 🟡 IN DEVELOPMENT |
 | **STACK** | Python &#183; LLMs &#183; Automation |
-| **GITHUB** | `[ADD LINK]` |
+| **GITHUB** | `https://github.com/CoderBhavik/A.R.I.A-V2` |
 
 **DESCRIPTION**
 Personal AI assistant focused on automation, system interaction, voice interaction, and intelligent task execution.
@@ -97,7 +97,7 @@ Personal AI assistant focused on automation, system interaction, voice interacti
 |:--|:--|
 | **STATUS** | 🟡 IN DEVELOPMENT |
 | **STACK** | Python &#183; LangChain &#183; LLMs |
-| **GITHUB** | `[ADD LINK]` |
+| **GITHUB** | `https://github.com/CoderBhavik/AI-RESEARCHER-AGENT` |
 
 **DESCRIPTION**
 Multi-agent research system that performs web search, web scraping, report generation, and a critic/reviewer pipeline.
