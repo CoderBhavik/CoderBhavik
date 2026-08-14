@@ -95,7 +95,7 @@ Personal AI assistant focused on automation, system interaction, voice interacti
 
 | FIELD | VALUE |
 |:--|:--|
-| **STATUS** | 🟡 IN DEVELOPMENT |
+| **STATUS** | 🟢 ONLINE |
 | **STACK** | Python &#183; LangChain &#183; LLMs |
 | **GITHUB** | https://github.com/CoderBhavik/AI-RESEARCHER-AGENT |
 
@@ -170,7 +170,7 @@ bhavik@aria:~$ mission
 bhavik@aria:~$ ./run_active_projects.sh
 
 > [1] ARIA .................. STATUS: DEVELOPING
-> [2] AI Researcher Agent .... STATUS: DEVELOPING
+> [2] AI Researcher Agent .... STATUS: ONLINE
 ```
 
 ```
